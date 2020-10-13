@@ -334,6 +334,10 @@ h6 i {
 	text-align: center;
 }
 
+#name h1, h3 {
+	font-family: 'Roboto', sans-serif;
+}
+
 
 .sm-img {
 	display: block;
